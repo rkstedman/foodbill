@@ -1,0 +1,22 @@
+{
+  "name": "namebox",
+  "version": "0.0.1",
+  "authors": [
+    "Rachael Stedman <rkstedman@gmail.com>"
+  ],
+  "description": "an autocomplete text box",
+  "main": "lib/app.js",
+  "keywords": [
+    "box",
+    "autocomplete"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "public/components",
+    "tests"
+  ]
+}

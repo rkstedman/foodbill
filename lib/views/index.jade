@@ -1,0 +1,33 @@
+extends layout
+
+block content
+  .container
+    h2 How much more does it cost to be vegan or paleo?
+    p some info
+    h4 a subtitle
+    p some more info
+    .row
+      #store.dc-chart
+        strong Retailer 
+        a.reset(href="javascript:storePie.filterAll();dc.redrawAll();",style="display:none;") reset
+        .clearfix
+      #month.dc-chart
+        strong Month 
+        a.reset(href='javascript:storePie.filterAll();dc.redrawAll();',style='display:none;') reset
+        .clearfix
+    .row
+      .dc-data-count.dc-chart
+        span.filter-count
+        | selected out of
+        span.total-count
+        | records | 
+        a(href="javascript:dc.filterAll(); dc.renderAll();") Reset All
+    .row
+      table.dc-data-table.table.table-hover.dc-chart
+        thead
+          tr.header
+            th item
+            th category
+            th cost
+            th date
+        tbody
