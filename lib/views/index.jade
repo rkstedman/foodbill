@@ -1,33 +1,34 @@
 extends layout
 
 block content
-  .container
-    h2 How much more does it cost to be vegan or paleo?
-    p some info
-    h4 a subtitle
-    p some more info
-    .row
-      #store.dc-chart
-        strong Retailer 
-        a.reset(href="javascript:storePie.filterAll();dc.redrawAll();",style="display:none;") reset
-        .clearfix
-      #month.dc-chart
-        strong Month 
-        a.reset(href='javascript:storePie.filterAll();dc.redrawAll();',style='display:none;') reset
-        .clearfix
-    .row
-      .dc-data-count.dc-chart
-        span.filter-count
-        | selected out of
-        span.total-count
-        | records | 
-        a(href="javascript:dc.filterAll(); dc.renderAll();") Reset All
-    .row
-      table.dc-data-table.table.table-hover.dc-chart
-        thead
-          tr.header
-            th item
-            th category
-            th cost
-            th date
-        tbody
+  .row
+    #store.dc-chart
+      strong Retailer 
+      a.reset(href="javascript:storePie.filterAll();dc.redrawAll();",style="display:none;") reset
+      .clearfix
+    #month.dc-chart
+      strong Month 
+      a.reset(href='javascript:monthPie.filterAll();dc.redrawAll();',style='display:none;') reset
+      .clearfix
+  .row
+    .dc-data-count.dc-chart
+      span.filter-count
+      | &nbsp;selected out of&nbsp;
+      span.total-count
+      | &nbsp;records | 
+      a(href="javascript:dc.filterAll(); dc.renderAll();") Reset All
+  .row
+    h4 Frequency of Grocery Store Visits
+    p On average, I made <span> </span> visits to grocery stores per week.
+    p Below is a bar graph of average visits per week by month.
+    #visitFreq.dc-chart
+  .row
+    table.dc-data-table.table.table-hover.dc-chart
+      thead
+        tr.header
+          th item
+          th category
+          th store
+          th cost
+          th date
+      tbody

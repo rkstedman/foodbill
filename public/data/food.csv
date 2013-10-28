@@ -1,1 +1,208 @@
-store,Item,Category,Cost,Date,DietWhole Foods,    Wheat Cereal,grains,$4 ,2/14/13,normalWhole Foods,    Oat Bread,grains,$20 ,2/14/13,normalWhole Foods,Turkey Breast,meat,$4 ,2/14/13,normalWhole Foods,    Dried Cranberries,fruit,$5 ,2/14/13,normalWhole Foods,walnuts,nuts,$11 ,2/14/13,normalWhole Foods,    Strawberries,fruit,$6 ,2/14/13,normalWhole Foods,    Peanut Butter,legumes,$4 ,2/14/13,normalWhole Foods,  Hot Chocolate,sweets,$5 ,2/14/13,normalWhole Foods,  Soy Milk,soy,$4 ,2/14/13,normalWhole Foods,salad dressing,"condiments, sauces, & dressings",$4 ,2/14/13,normalWhole Foods,  Celery,vegetables,$2 ,2/14/13,normalWhole Foods,  Romaine Lettuce,vegetables,$2 ,2/14/13,normalWhole Foods,  Bananas,fruit,$2 ,2/14/13,normalWhole Foods,  Zucchini,vegetables,$1 ,2/14/13,normalWhole Foods,Corn,legumes,$2 ,2/14/13,normalWhole Foods,  Muenster Cheese,cheese,$5 ,2/14/13,normalTrader Joes,  Pita Bread,grains,$1 ,2/26/13,normalTrader Joes,  Hummus,legumes,$3 ,2/26/13,normalTrader Joes,  Crackers,grains,$2 ,2/26/13,normalTrader Joes,  Almonds,nuts,$9 ,2/26/13,normalTrader Joes,  Basil,herbs & spices,$3 ,2/26/13,normalTrader Joes,  Blueberries,fruit,$6 ,2/26/13,normalTrader Joes,  Swiss Gruyere,cheese,$4 ,2/26/13,normalTrader Joes,  Cheddar,cheese,$5 ,2/26/13,normalTrader Joes,  Gorgonzola,cheese,$5 ,2/26/13,normalTrader Joes,  Cheerios,grains,$2 ,2/26/13,normalTrader Joes,  Feta,cheese,$3 ,2/26/13,normalTrader Joes,  Canadian Bacon,meat,$2 ,2/26/13,normalTrader Joes,Mozzarella,cheese,$3 ,2/26/13,normalStar Market,Basil,herbs & spices,$7 ,2/20/13,normalStar Market,Oregano,herbs & spices,$3 ,2/20/13,normalStar Market,Spice,herbs & spices,$6 ,2/20/13,normalStar Market,Ground Turkey,meat,$7 ,2/20/13,normalStar Market,Bananas,fruit,$2 ,2/20/13,normalStar Market,Tomatoes,vegetables,$3 ,2/20/13,normalStar Market,Tomatoes,vegetables,$1 ,2/26/13,normalStar Market,Chocolate,sweets,$3 ,2/26/13,normalWhole Foods,Unknown,Uknown,$32 ,2/27/13,normalWhole Foods,Cotija Cheese,cheese,$5.99 ,3/20/13,normalRoche Bros,ground turkey,meat,$5.99 ,3/26/13,normalRoche Bros,muenster cheese,cheese,$4.11 ,3/26/13,normalStar Market,Pillsbury Unbleached flour,grains,$2.84 ,3/25/13,normalStar Market,King Arthur Cake Flour,grains,$2.99 ,3/25/13,normalStar Market,Cottage Cheese,dairy,$2.89 ,3/25/13,normalStar Market,Cinnamon,herbs & spices,$2.49 ,3/25/13,normalStar Market,Semisweet Chocolate Chips,sweets,$2.29 ,3/25/13,normalStar Market,Ghiradelli Dark Chocolate Chips,sweets,$2.99 ,3/25/13,normalStar Market,Strawberries,fruit,$3.99 ,3/25/13,normalStar Market,Romaine Lettuce,vegetables,$1.89 ,3/25/13,normalStar Market,Broccoli,vegetables,$0.93 ,3/25/13,normalStar Market,Bananas,fruit,$1.54 ,3/25/13,normalStar Market,Cucumbers,vegetables,$2.67 ,3/25/13,normalStar Market,Green Grapes,fruit,$2.82 ,3/25/13,normalRoche Bros,Lime Juice,"condiments, sauces, & dressings",$1.99 ,3/20/13,normalRoche Bros,Ranch Dressing,"condiments, sauces, & dressings",$1 ,3/20/13,normalRoche Bros,Oatmeal,grains,$2.99 ,3/20/13,normalRoche Bros,Club Soda,other,$0.79 ,3/20/13,normalRoche Bros,Apples,fruit,$1.34 ,3/20/13,normalRoche Bros,Red Peppers,vegetables,$2.45 ,3/20/13,normalRoche Bros,Red Onions,vegetables,$1.30 ,3/20/13,normalRoche Bros,Limes,fruit,$0.79 ,3/20/13,normalRoche Bros,Cilantro,herbs & spices,$1.29 ,3/20/13,normalRoche Bros,Cole Slaw Cabbage,vegetables,$2 ,3/20/13,normalRoche Bros,Broccoli,vegetables,$0.62 ,3/20/13,normalRoche Bros,Frozen Sweet Corn,legumes,$1.25 ,3/20/13,normalStar Market,uknown,unknown,$30.71 ,3/16/13,normalRoche Bros,Rice Chex,grains,$3.79 ,3/16/13,normalRoche Bros,Cheerios,grains,$3.69 ,3/16/13,normalRoche Bros,Zucchini,vegetables,$0.61 ,3/16/13,normalRoche Bros,Radishes,vegetables,$1.50 ,3/16/13,normalRoche Bros,Red Peppers,vegetables,$1.88 ,3/16/13,normalRoche Bros,Green Leaf Lettuce,vegetables,$1.99 ,3/16/13,normalRoche Bros,Carrots,vegetables,$3.99 ,3/16/13,normalRoche Bros,Crumbled Goat Cheese,cheese,$5.32 ,3/16/13,normalRoche Bros,Orange Juice,other,$6.98 ,3/16/13,normalWhole Foods,clementines,fruit,$6.99 ,3/16/13,normalWhole Foods,cranberries,sweets,$5.39 ,3/16/13,normalWhole Foods,walnuts,nuts,$6.19 ,3/16/13,normalStar Market,Unknown,unknown,$13.30 ,3/31/13,normalRoche Bros,Tomatos,vegetables,$3.23 ,3/31/13,normalRoche Bros,Strawberries,fruit,$5 ,3/31/13,normalRoche Bros,Zucchini,vegetables,$0.73 ,3/31/13,normalRoche Bros,Red Pepper,vegetables,$1.64 ,3/31/13,normalRoche Bros,Cucumbers,vegetables,$0.99 ,3/31/13,normalRoche Bros,Celery,vegetables,$1.99 ,3/31/13,normalRoche Bros,Carrots,vegetables,$3.99 ,3/31/13,normalRoche Bros,Broccoli,vegetables,$1.25 ,3/31/13,normalRoche Bros,Green Beans,legumes,$0.30 ,3/31/13,normalRoche Bros,Bananas,fruit,$1.98 ,3/31/13,normalRoche Bros,Avocadoes,fats & oils,$4 ,3/31/13,normalRoche Bros,Apples,fruit,$2.45 ,3/31/13,normalRoche Bros,Turkey Breast,meat,$4.23 ,3/31/13,normalRoche Bros,Meunster Cheese,cheese,$3 ,3/31/13,normalRoche Bros,Brown Rice,grains,$2.50 ,3/31/13,normalRoche Bros,Rotini Pasta,grains,$2.19 ,3/31/13,normalRoche Bros,Penne Pasta,grains,$2.19 ,3/31/13,normalRoche Bros,Chicken Breast,meat,$6.63 ,3/31/13,normalRoche Bros,Soy Milk,soy,$4.19 ,3/31/13,normalTarget,  Brown Rice,grains,$0.99 ,3/24/13,normalTarget,  Coffee filters for thai tea,other,$0.87 ,3/24/13,normalTarget,milk,dairy,$3.39 ,3/24/13,normalStar Market,  Bananas,fruit,$1.26 ,3/13/13,normalStar Market,  Soy Milk,soy,$3.99 ,3/13/13,normalRoche Bros,  Strawberries,fruit,$5 ,3/7/13,normalRoche Bros,  Oranges,fruit,$3.99 ,3/7/13,normalRoche Bros,  Green Leaf Lettuce,vegetables,$1.99 ,3/7/13,normalRoche Bros,  Black Grapes,fruit,$3.14 ,3/7/13,normalRoche Bros,  Carrots,vegetables,$1.99 ,3/7/13,normalRoche Bros,  Bananas,fruit,$2.02 ,3/7/13,normalRoche Bros,  Lemon Grilled Chicken Breast,meat,$3.96 ,3/7/13,normalRoche Bros,  Rice Chex,grains,$3.79 ,3/7/13,normalRoche Bros,  Applesauce,fruit,$1.99 ,3/7/13,normalRoche Bros,  Canola Oil,fats & oils,$3.99 ,3/7/13,normal
+Retailer,Item,Category,Cost,Date,Diet
+Whole Foods,    Wheat Cereal,grains,$4,2/14/2013,normal
+Whole Foods,    Oat Bread,grains,$20,2/14/2013,normal
+Whole Foods,Turkey Breast,meat,$4,2/14/2013,normal
+Whole Foods,    Dried Cranberries,fruit,$5,2/14/2013,normal
+Whole Foods,walnuts,nuts,$11,2/14/2013,normal
+Whole Foods,    Strawberries,fruit,$6,2/14/2013,normal
+Whole Foods,    Peanut Butter,legumes,$4,2/14/2013,normal
+Whole Foods,  Hot Chocolate,sweets,$5,2/14/2013,normal
+Whole Foods,  Soy Milk,soy,$4,2/14/2013,normal
+Whole Foods,salad dressing,"condiments, sauces, & dressings",$4,2/14/2013,normal
+Whole Foods,  Celery,vegetables,$2,2/14/2013,normal
+Whole Foods,  Romaine Lettuce,vegetables,$2,2/14/2013,normal
+Whole Foods,  Bananas,fruit,$2,2/14/2013,normal
+Whole Foods,  Zucchini,vegetables,$1,2/14/2013,normal
+Whole Foods,Corn,legumes,$2,2/14/2013,normal
+Whole Foods,  Muenster Cheese,cheese,$5,2/14/2013,normal
+Trader Joes,  Pita Bread,grains,$1,2/26/2013,normal
+Trader Joes,  Hummus,legumes,$3,2/26/2013,normal
+Trader Joes,  Crackers,grains,$2,2/26/2013,normal
+Trader Joes,  Almonds,nuts,$9,2/26/2013,normal
+Trader Joes,  Basil,herbs & spices,$3,2/26/2013,normal
+Trader Joes,  Blueberries,fruit,$6,2/26/2013,normal
+Trader Joes,  Swiss Gruyere,cheese,$4,2/26/2013,normal
+Trader Joes,  Cheddar,cheese,$5,2/26/2013,normal
+Trader Joes,  Gorgonzola,cheese,$5,2/26/2013,normal
+Trader Joes,  Cheerios,grains,$2,2/26/2013,normal
+Trader Joes,  Feta,cheese,$3,2/26/2013,normal
+Trader Joes,  Canadian Bacon,meat,$2,2/26/2013,normal
+Trader Joes,Mozzarella,cheese,$3,2/26/2013,normal
+Star Market,Basil,herbs & spices,$7,2/20/2013,normal
+Star Market,Oregano,herbs & spices,$3,2/20/2013,normal
+Star Market,Spice,herbs & spices,$6,2/20/2013,normal
+Star Market,Ground Turkey,meat,$7,2/20/2013,normal
+Star Market,Bananas,fruit,$2,2/20/2013,normal
+Star Market,Tomatoes,vegetables,$3,2/20/2013,normal
+Star Market,Tomatoes,vegetables,$1,2/26/2013,normal
+Star Market,Chocolate,sweets,$3,2/26/2013,normal
+Whole Foods,Unknown,Uknown,$32,2/27/2013,normal
+Whole Foods,Cotija Cheese,cheese,$5.99,3/20/2013,normal
+Roche Bros,ground turkey,meat,$5.99,3/26/2013,normal
+Roche Bros,muenster cheese,cheese,$4.11,3/26/2013,normal
+Star Market,Pillsbury Unbleached flour,grains,$2.84,3/25/2013,normal
+Star Market,King Arthur Cake Flour,grains,$2.99,3/25/2013,normal
+Star Market,Cottage Cheese,dairy,$2.89,3/25/2013,normal
+Star Market,Cinnamon,herbs & spices,$2.49,3/25/2013,normal
+Star Market,Semisweet Chocolate Chips,sweets,$2.29,3/25/2013,normal
+Star Market,Ghiradelli Dark Chocolate Chips,sweets,$2.99,3/25/2013,normal
+Star Market,Strawberries,fruit,$3.99,3/25/2013,normal
+Star Market,Romaine Lettuce,vegetables,$1.89,3/25/2013,normal
+Star Market,Broccoli,vegetables,$0.93,3/25/2013,normal
+Star Market,Bananas,fruit,$1.54,3/25/2013,normal
+Star Market,Cucumbers,vegetables,$2.67,3/25/2013,normal
+Star Market,Green Grapes,fruit,$2.82,3/25/2013,normal
+Roche Bros,Lime Juice,"condiments, sauces, & dressings",$1.99,3/20/2013,normal
+Roche Bros,Ranch Dressing,"condiments, sauces, & dressings",$1,3/20/2013,normal
+Roche Bros,Oatmeal,grains,$2.99,3/20/2013,normal
+Roche Bros,Club Soda,other,$0.79,3/20/2013,normal
+Roche Bros,Apples,fruit,$1.34,3/20/2013,normal
+Roche Bros,Red Peppers,vegetables,$2.45,3/20/2013,normal
+Roche Bros,Red Onions,vegetables,$1.3,3/20/2013,normal
+Roche Bros,Limes,fruit,$0.79,3/20/2013,normal
+Roche Bros,Cilantro,herbs & spices,$1.29,3/20/2013,normal
+Roche Bros,Cole Slaw Cabbage,vegetables,$2,3/20/2013,normal
+Roche Bros,Broccoli,vegetables,$0.62,3/20/2013,normal
+Roche Bros,Frozen Sweet Corn,legumes,$1.25,3/20/2013,normal
+Star Market,uknown,unknown,$30.71,3/16/2013,normal
+Roche Bros,Rice Chex,grains,$3.79,3/16/2013,normal
+Roche Bros,Cheerios,grains,$3.69,3/16/2013,normal
+Roche Bros,Zucchini,vegetables,$0.61,3/16/2013,normal
+Roche Bros,Radishes,vegetables,$1.5,3/16/2013,normal
+Roche Bros,Red Peppers,vegetables,$1.88,3/16/2013,normal
+Roche Bros,Green Leaf Lettuce,vegetables,$1.99,3/16/2013,normal
+Roche Bros,Carrots,vegetables,$3.99,3/16/2013,normal
+Roche Bros,Crumbled Goat Cheese,cheese,$5.32,3/16/2013,normal
+Roche Bros,Orange Juice,other,$6.98,3/16/2013,normal
+Whole Foods,clementines,fruit,$6.99,3/16/2013,normal
+Whole Foods,cranberries,sweets,$5.39,3/16/2013,normal
+Whole Foods,walnuts,nuts,$6.19,3/16/2013,normal
+Star Market,Unknown,unknown,$13.3,3/31/2013,normal
+Roche Bros,Tomatos,vegetables,$3.23,3/31/2013,normal
+Roche Bros,Strawberries,fruit,$5,3/31/2013,normal
+Roche Bros,Zucchini,vegetables,$0.73,3/31/2013,normal
+Roche Bros,Red Pepper,vegetables,$1.64,3/31/2013,normal
+Roche Bros,Cucumbers,vegetables,$0.99,3/31/2013,normal
+Roche Bros,Celery,vegetables,$1.99,3/31/2013,normal
+Roche Bros,Carrots,vegetables,$3.99,3/31/2013,normal
+Roche Bros,Broccoli,vegetables,$1.25,3/31/2013,normal
+Roche Bros,Green Beans,legumes,$0.3,3/31/2013,normal
+Roche Bros,Bananas,fruit,$1.98,3/31/2013,normal
+Roche Bros,Avocadoes,fats & oils,$4,3/31/2013,normal
+Roche Bros,Apples,fruit,$2.45,3/31/2013,normal
+Roche Bros,Turkey Breast,meat,$4.23,3/31/2013,normal
+Roche Bros,Meunster Cheese,cheese,$3,3/31/2013,normal
+Roche Bros,Brown Rice,grains,$2.5,3/31/2013,normal
+Roche Bros,Rotini Pasta,grains,$2.19,3/31/2013,normal
+Roche Bros,Penne Pasta,grains,$2.19,3/31/2013,normal
+Roche Bros,Chicken Breast,meat,$6.63,3/31/2013,normal
+Roche Bros,Soy Milk,soy,$4.19,3/31/2013,normal
+Target,  Brown Rice,grains,$0.99,3/24/2013,normal
+Target,  Coffee filters for thai tea,other,$0.87,3/24/2013,normal
+Target,milk,dairy,$3.39,3/24/2013,normal
+Star Market,  Bananas,fruit,$1.26,3/13/2013,normal
+Star Market,  Soy Milk,soy,$3.99,3/13/2013,normal
+Roche Bros,  Strawberries,fruit,$5,3/7/2013,normal
+Roche Bros,  Oranges,fruit,$3.99,3/7/2013,normal
+Roche Bros,  Green Leaf Lettuce,vegetables,$1.99,3/7/2013,normal
+Roche Bros,  Black Grapes,fruit,$3.14,3/7/2013,normal
+Roche Bros,  Carrots,vegetables,$1.99,3/7/2013,normal
+Roche Bros,  Bananas,fruit,$2.02,3/7/2013,normal
+Roche Bros,  Lemon Grilled Chicken Breast,meat,$3.96,3/7/2013,normal
+Roche Bros,  Rice Chex,grains,$3.79,3/7/2013,normal
+Roche Bros,  Applesauce,fruit,$1.99,3/7/2013,normal
+Roche Bros,  Canola Oil,fats & oils,$3.99,3/7/2013,normal
+Stark Market,2% Milk,dairy,$2.99,4/10/2013,normal
+Stark Market,Orange Juice,other,$5,4/10/2013,normal
+Stark Market,Newman's Own Dressing,"condiments, sauces, & dressings",$4.19,4/10/2013,normal
+Stark Market,Broccoli,vegetables,$1.63,4/17/2013,normal
+Stark Market,Bananas,fruit,$1.82,4/17/2013,normal
+Stark Market,Red Pepper,vegetables,$2.12,4/17/2013,normal
+Stark Market,Cucumbers,vegetables,$1,4/17/2013,normal
+Roche Bros,Cheerios,grains,$4.69,4/26/2013,normal
+Roche Bros,Grape Tomatoes,vegetables,$2.99,4/26/2013,normal
+Roche Bros,Strawberries,fruit,$4,4/26/2013,normal
+Roche Bros,Red Pepper,vegetables,$1.92,4/26/2013,normal
+Roche Bros,Green Leaf Lettuce,vegetables,$1.99,4/26/2013,normal
+Roche Bros,Cucumbers,vegetables,$0.99,4/26/2013,normal
+Roche Bros,Carrots,vegetables,$3.99,4/26/2013,normal
+Roche Bros,Green Beans,vegetables,$0.8,4/26/2013,normal
+Roche Bros,Bananas,fruit,$2.43,4/26/2013,normal
+Roche Bros,Orange Juice,other,$5.98,4/26/2013,normal
+Roche Bros,Soy Milk,soy,$3.99,4/26/2013,normal
+Roche Bros,Cottage Cheese,dairy,$5.58,4/26/2013,normal
+star market,Chocolate Chips,sweets,$3.49,4/30/2013,normal
+star market,Red Peppers,vegetables,$1.52,4/30/2013,normal
+star market,Almonds,nuts,$4.59,4/30/2013,normal
+roche bros,Grape Tomatoes,vegetables,$1.26,4/30/2013,normal
+roche bros,Chicken Broth,"condiments, sauces, & dressings",$2.76,4/30/2013,normal
+roche bros,Corn on the Cob,legumes,$4,4/30/2013,normal
+roche bros,Green Beans,legumes,$3.99,4/30/2013,normal
+roche bros,Bananas,fruit,$0.52,4/30/2013,normal
+roche bros,Thin Sliced Boneless Chicken Breast,meat,$14.02,4/30/2013,normal
+roche bros,Soy Milk,soy,$3.99,4/30/2013,normal
+roche bros,Orange Juice,other,$5,4/30/2013,normal
+whole foods,Dried Cranberries,sweets,$5.39,4/30/2013,normal
+whole foods,Oatnut Bread,grains,$3.99,4/30/2013,normal
+whole foods,Oatnut Bread,grains,$3.99,4/30/2013,normal
+whole foods,Raw Walnuts,nuts,$3.48,4/30/2013,normal
+star market,Red Wine Vinegar,"condiments, sauces, & dressings",$1.26,4/10/2013,normal
+star market,Chicken Broth,"condiments, sauces, & dressings",$2.76,4/10/2013,normal
+star market,Cottage Cheese,dairy,$4,4/10/2013,normal
+star market,Strawberries,fruit,$3.99,4/10/2013,normal
+star market,Garlic,herbs & spices,$0.52,4/10/2013,normal
+whole foods,Oatnut Bread,grains,$3.99,4/9/2013,normal
+whole foods,Dried Cranberries,sweets,$5.39,4/9/2013,normal
+whole foods,Raw Walnuts,nuts,$4.6,4/9/2013,normal
+whole foods,Red Lentils,legumes,$0.89,4/9/2013,normal
+roche bros,Rice Chex,grains,$3.79,4/9/2013,normal
+roche bros,Cheerios,grains,$4.69,4/9/2013,normal
+roche bros,Red Peppers,vegetables,$1.03,4/9/2013,normal
+roche bros,Oranges,fruit,$2.99,4/9/2013,normal
+roche bros,Green Leaf Lettuce,vegetables,$1.99,4/9/2013,normal
+roche bros,Cucumbers,vegetables,$0.5,4/9/2013,normal
+roche bros,Cauliflowers,vegetables,$2.99,4/9/2013,normal
+roche bros,Bananas,fruit,$0.95,4/9/2013,normal
+star market,unknown,unknown,$1.83,4/15/2013,normal
+star market,Soy Milk,soy,$3.99,4/15/2013,normal
+star market,Plain Greek Yogurt,dairy,$3.49,4/15/2013,normal
+star market,Cucumbers,vegetables,$0.5,4/15/2013,normal
+star market,Cantaloupe,fruit,$2.99,4/15/2013,normal
+star market,Grape Tomatoes,vegetables,$3.49,4/15/2013,normal
+star market,Red Peppers,vegetables,$1.86,4/15/2013,normal
+star market,Bananas,fruit,$2.21,4/15/2013,normal
+Star Market,Orange Juice,other,$6,5/6/2013,normal
+Star Market,Soy Milk,soy,$3.99,5/6/2013,normal
+Star Market,Mango,fruit,$1,5/6/2013,normal
+Star Market,Pete & Gerry Organic Eggs,eggs,$2.99,5/6/2013,normal
+Villante Farms,Lettuce,vegetables,$1.99,5/7/2013,normal
+Villante Farms,Cucumbers,vegetables,$0.89,5/7/2013,normal
+Roche Bros,Grape Tomatoes,vegetables,$5,5/12/2013,normal
+Roche Bros,Strawberries,fruit,$3.76,5/12/2013,normal
+Roche Bros,Red Peppers,vegetables,$2.43,5/12/2013,normal
+Roche Bros,Clementines,fruit,$6.99,5/12/2013,normal
+Roche Bros,Organic Carrots,vegetables,$3.99,5/12/2013,normal
+Roche Bros,Green Beans,legumes,$0.88,5/12/2013,normal
+Roche Bros,Bananas,fruit,$1.75,5/12/2013,normal
+Roche Bros,Rice Chex,grains,$3.79,5/12/2013,normal
+Roche Bros,Cheerios,grains,$4.69,5/12/2013,normal
+Roche Bros,Gala Apples,fruit,$2.93,5/12/2013,normal
+Roche Bros,Yoplait Yogurt,dairy,$4,5/12/2013,normal
+Roche Bros,Oreos,sweets,$2.79,5/29/2013,normal
+Roche Bros,Green Leaf Lettuce,vegetables,$1.99,5/29/2013,normal
+Roche Bros,Bananas,fruit,$1.3,5/29/2013,normal
+Roche Bros,Hass Avocadoes,fats & oils,$5,5/29/2013,normal
+Roche Bros,2% Milk,dairy,$2.89,5/29/2013,normal
+Star Market,Dried Cranberries,sweets,$2.99,5/23/2013,normal
+Star Market,Almonds,nuts,$5.69,5/23/2013,normal
+Star Market,Soy Milk,soy,$3.99,5/23/2013,normal
+Star Market,Greek Yogurt,dairy,$2.79,5/23/2013,normal
+Star Market,Bananas,fruit,$1.21,5/23/2013,normal
+Star Market,Blueberries,fruit,$5.99,5/23/2013,normal
+Whole Foods,Oatnut Bread,grains,$11.97,5/17/2013,normal
+Star Market,Bananas,fruit,$1.88,5/16/2013,normal
+Roche Bros,Brownie Mix,sweets,$1.59,5/15/2013,normal
+Roche Bros,Spinach,vegetables,$2.5,5/15/2013,normal
+Roche Bros,Cucumbers,vegetables,$0.99,5/15/2013,normal
+Roche Bros,Soy Milk,soy,$3.59,5/15/2013,normal
+Roche Bros,Eggs,eggs,$2.49,5/15/2013,normal

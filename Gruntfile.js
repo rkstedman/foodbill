@@ -15,7 +15,11 @@ module.exports = function(grunt) {
     // copy bower install javascript files and css over
     copy: {
       deps: { 
-        expand: true, flatten: true, src: 'public/components/jquery/jquery.min.js', dest: 'public/javascripts/', filter: 'isFile' 
+        expand: true, flatten: true, 
+        src: [
+          'public/components/jquery/jquery.min.js', 
+          'public/components/moment/min/moment.min.js'],
+        dest: 'public/javascripts/', filter: 'isFile' 
       }
     },
     uglify: {

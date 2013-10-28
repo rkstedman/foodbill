@@ -18,5 +18,8 @@
     "node_modules",
     "public/components",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "moment": "~2.4.0"
+  }
 }
