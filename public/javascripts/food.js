@@ -40,6 +40,14 @@ var months = {
   '9': {
     short: 'Oct',
     full: 'October'
+  },
+  '10': {
+    short: 'Nov',
+    full: 'November'
+  },
+  '11': {
+    short: 'Dec',
+    full: 'December'
   }
 };
 
