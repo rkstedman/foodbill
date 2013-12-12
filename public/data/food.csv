@@ -112,13 +112,13 @@ Roche Bros,  Lemon Grilled Chicken Breast,meat,$3.96,3/7/2013,normal
 Roche Bros,  Rice Chex,grains,$3.79,3/7/2013,normal
 Roche Bros,  Applesauce,fruit,$1.99,3/7/2013,normal
 Roche Bros,  Canola Oil,fats & oils,$3.99,3/7/2013,normal
-Stark Market,2% Milk,dairy,$2.99,4/10/2013,normal
-Stark Market,Orange Juice,other,$5,4/10/2013,normal
-Stark Market,Newman's Own Dressing,"condiments, sauces, & dressings",$4.19,4/10/2013,normal
-Stark Market,Broccoli,vegetables,$1.63,4/17/2013,normal
-Stark Market,Bananas,fruit,$1.82,4/17/2013,normal
-Stark Market,Red Pepper,vegetables,$2.12,4/17/2013,normal
-Stark Market,Cucumbers,vegetables,$1,4/17/2013,normal
+Star Market,2% Milk,dairy,$2.99,4/10/2013,normal
+Star Market,Orange Juice,other,$5,4/10/2013,normal
+Star Market,Newman's Own Dressing,"condiments, sauces, & dressings",$4.19,4/10/2013,normal
+Star Market,Broccoli,vegetables,$1.63,4/17/2013,normal
+Star Market,Bananas,fruit,$1.82,4/17/2013,normal
+Star Market,Red Pepper,vegetables,$2.12,4/17/2013,normal
+Star Market,Cucumbers,vegetables,$1,4/17/2013,normal
 Roche Bros,Cheerios,grains,$4.69,4/26/2013,normal
 Roche Bros,Grape Tomatoes,vegetables,$2.99,4/26/2013,normal
 Roche Bros,Strawberries,fruit,$4,4/26/2013,normal
@@ -175,8 +175,8 @@ Star Market,Orange Juice,other,$6,5/6/2013,normal
 Star Market,Soy Milk,soy,$3.99,5/6/2013,normal
 Star Market,Mango,fruit,$1,5/6/2013,normal
 Star Market,Pete & Gerry Organic Eggs,eggs,$2.99,5/6/2013,normal
-Villante Farms,Lettuce,vegetables,$1.99,5/7/2013,normal
-Villante Farms,Cucumbers,vegetables,$0.89,5/7/2013,normal
+Volante Farms,Lettuce,vegetables,$1.99,5/7/2013,normal
+Volante Farms,Cucumbers,vegetables,$0.89,5/7/2013,normal
 Roche Bros,Grape Tomatoes,vegetables,$5,5/12/2013,normal
 Roche Bros,Strawberries,fruit,$3.76,5/12/2013,normal
 Roche Bros,Red Peppers,vegetables,$2.43,5/12/2013,normal
@@ -206,3 +206,269 @@ Roche Bros,Spinach,vegetables,$2.5,5/15/2013,normal
 Roche Bros,Cucumbers,vegetables,$0.99,5/15/2013,normal
 Roche Bros,Soy Milk,soy,$3.59,5/15/2013,normal
 Roche Bros,Eggs,eggs,$2.49,5/15/2013,normal
+star market,Capers,herbs & spices,$3.17,6/25/2013,normal
+star market,2% Milk,dairy,$2.69,6/25/2013,normal
+star market,Soy Milk,soy,$3.79,6/25/2013,normal
+star market,Nonfat Cream Cheese,dairy,$2.29,6/25/2013,normal
+star market,Bananas,fruit,$1.63,6/25/2013,normal
+star market,Organic Carrots,vegetables,$1.29,6/25/2013,normal
+star market,Lemon,"condiments, sauces, & dressings",$0.69,6/25/2013,normal
+whole foods,Bananas,fruit,$2.21,6/24/2013,normal
+whole foods,Oatnut Bread,grains,$3.99,6/24/2013,normal
+whole foods,Tahini Roasted Sesame Seeds,fats & oils,$4.99,6/24/2013,normal
+whole foods,Peanut Butter,legumes,$2.79,6/24/2013,normal
+star market,Sugar,sweets,$2.99,6/17/2013,normal
+star market,White Vinegar,"condiments, sauces, & dressings",$1.13,6/17/2013,normal
+star market,Red Leaf Lettuce,vegetables,$1.99,6/17/2013,normal
+star market,Pine Nuts,nuts,$7.99,6/17/2013,normal
+star market,Blueberries,fruit,$4.99,6/17/2013,normal
+star market,Tomatos,vegetables,$1.23,6/17/2013,normal
+star market,Alpine Lace Swiss Cheese,cheese,$4.99,6/17/2013,normal
+Roche Bros,Strawberries,fruit,$2.99,6/16/2013,normal
+Roche Bros,Zucchini,vegetables,$0.75,6/16/2013,normal
+Roche Bros,Mangoes,fruit,$5,6/16/2013,normal
+Roche Bros,Cherries,fruit,$8.34,6/16/2013,normal
+Roche Bros,Broccoli,vegetables,$2.37,6/16/2013,normal
+Roche Bros,Bananas,vegetables,$3.27,6/16/2013,normal
+Roche Bros,Soy Milk,soy,$3.99,6/16/2013,normal
+Roche Bros,Orange Juice,other,$2.99,6/16/2013,normal
+Roche Bros,Fage Greek Yogurt,dairy,$3,6/16/2013,normal
+Roche Bros,Frozen Sweet Corn,legumes,$2.19,6/16/2013,normal
+Roche Bros,Frozen Green Beans,legumes,$2.19,6/16/2013,normal
+Roche Bros,Garbanzo Beans,legumes,$3,6/12/2013,normal
+Roche Bros,Kidney Beans,legumes,$3,6/12/2013,normal
+Roche Bros,Marinara Spaghetti Sauce,"condiments, sauces, & dressings",$2,6/12/2013,normal
+Roche Bros,Zucchini,vegetables,$1.05,6/12/2013,normal
+Roche Bros,Spinach,vegetables,$2.5,6/12/2013,normal
+Roche Bros,Almonds,nuts,$6,6/12/2013,normal
+Roche Bros,Marinara Spaghetti Sauce,"condiments, sauces, & dressings",$1,6/11/2013,normal
+Roche Bros,Yams,starch,$1.99,6/11/2013,normal
+Roche Bros,Green Leaf Lettuce,vegetables,$1.99,6/11/2013,normal
+Roche Bros,Broccoli,vegetables,$1.34,6/11/2013,normal
+Roche Bros,Beets,vegetables,$3.99,6/11/2013,normal
+Roche Bros,Jennio Extra Lean Ground Turkey,meat,$10,6/11/2013,normal
+whole foods,Oatnut Bread,grains,$3.99,6/11/2013,normal
+whole foods,Peanut Butter Ball Cereal,grains,$3.69,6/11/2013,normal
+whole foods,Walnuts Raw Halves,nuts,$5.94,6/11/2013,normal
+whole foods,Dried Cranberries,sweets,$5.39,6/11/2013,normal
+star market,Soy Milk,soy,$3.99,6/10/2013,normal
+star market,Nonfat Cottage Cheese,dairy,$2.29,6/10/2013,normal
+star market,Bananas,fruit,$2.54,6/10/2013,normal
+star market,Cucumbers,vegetables,$0.99,6/10/2013,normal
+star market,Red Leaf Lettuce,vegetables,$1.89,6/10/2013,normal
+star market,Yellow Bell Pepper,vegetables,$3.83,6/10/2013,normal
+star market,Peaches,fruit,$1.73,6/10/2013,normal
+costco,Costco Liquor Store,other,$15.99,6/7/2013,normal
+costco,Carolan's Irish Cream 1L,other,$15.99,6/7/2013,normal
+costco,Kirkland Multivitamin,other,$13.99,6/7/2013,normal
+costco,Mahi Mahi Frozen,fish,$25.99,6/7/2013,normal
+costco,Dark Chocolate Acai Berries,sweets,$9.99,6/7/2013,normal
+costco,Satsuma Clementines,fruit,$6.59,6/7/2013,normal
+star market,Cheerios,grains,$4.59,6/7/2013,normal
+star market,Crisco Vegetable Shortening,fats & oils,$3.85,6/7/2013,normal
+star market,Nestle White Chocolate,sweets,$2.25,6/7/2013,normal
+star market,2% Milk,dairy,$2.69,6/7/2013,normal
+star market,Soy Milk,soy,$3.99,6/7/2013,normal
+star market,Whipped Cream,sweets,$2.49,6/7/2013,normal
+star market,Bananas,fruit,$1.57,6/7/2013,normal
+star market,Ghirardelli Chocolate Chips,sweets,$3.49,6/3/2013,normal
+star market,Bananas,fruit,$1.86,6/3/2013,normal
+star market,Blueberries,fruit,$4.99,6/3/2013,normal
+star market,Cucumbers,vegetables,$0.89,6/3/2013,normal
+star market,Grape Tomatoes,vegetables,$2.99,6/3/2013,normal
+roche bros,Cheerios,grains,$4.69,6/2/2013,normal
+roche bros,Zucchini,vegetables,$1.35,6/2/2013,normal
+roche bros,Spinach,vegetables,$2.6,6/2/2013,normal
+roche bros,Red Peppers,vegetables,$0.84,6/2/2013,normal
+roche bros,Peaches,fruit,$1.58,6/2/2013,normal
+roche bros,Cherries,fruit,$9.93,6/2/2013,normal
+roche bros,Broccoli,vegetables,$1.17,6/2/2013,normal
+farmers market,Cherry Tomatoes,vegetables,$4,7/14/2013,vegan
+farmers market,White Peaches,fruit,$1.5,7/14/2013,vegan
+farmers market,Cucumbers,vegetables,$1,7/14/2013,vegan
+farmers market,Red Leaf Lettuce,vegetables,$2.5,7/14/2013,vegan
+farmers market,Green Beans,legumes,$1,7/14/2013,vegan
+whole foods,Tangerine Clementines,fruit,$5.99,7/9/2013,vegan
+whole foods,Kale Greens,vegetables,$1.94,7/9/2013,vegan
+whole foods,Dried Cranberries,sweets,$5.39,7/9/2013,vegan
+whole foods,Cantaloupe,fruit,$5,7/9/2013,vegan
+whole foods,Garnet Yams,starch,$1.72,7/9/2013,vegan
+whole foods,Bananas,fruit,$1.99,7/9/2013,vegan
+whole foods,Avocado,fats & oils,$2.49,7/9/2013,vegan
+whole foods,Corn,legumes,$1,7/9/2013,vegan
+whole foods,Yellow Peaches,fruit,$1.55,7/9/2013,vegan
+whole foods,Unsweetened Almond Milk,other,$1.99,7/9/2013,vegan
+whole foods,365 Cereal Wheat Squares,grains,$2.69,7/9/2013,vegan
+whole foods,365 Cereal Peanut Butter Balls,grains,$3.69,7/9/2013,vegan
+whole foods,Bananas,fruit,$1.73,7/12/2013,vegan
+Shaws,Brown Rice,grains,$4.87,7/10/2013,vegan
+Shaws,Lemon,"condiments, sauces, & dressings",$1.38,7/10/2013,vegan
+Shaws,Red Delicious Apples,fruit,$2.57,7/10/2013,vegan
+Shaws,Broccoli,vegetables,$1.42,7/10/2013,vegan
+Shaws,Red Peppers,vegetables,$1.96,7/10/2013,vegan
+Shaws,Spinach,vegetables,$4.49,7/10/2013,vegan
+Shaws,Cherries,fruit,$9.78,7/10/2013,vegan
+Shaws,Thyme,herbs & spices,$2.69,7/10/2013,vegan
+Shaws,Watermelon,fruit,$4.99,7/10/2013,vegan
+Star Market,Soy Milk,soy,$2.99,7/14/2013,vegan
+Star Market,Mixed Greens Lettuce,vegetables,$3.99,7/14/2013,vegan
+Star Market,Blueberries,fruit,$3.88,7/14/2013,vegan
+Star Market,Strawberries,fruit,$3.88,7/14/2013,vegan
+Star Market,Chopped Walnuts,nuts,$9.99,7/14/2013,vegan
+Star Market,Hummus,legumes,$2.14,7/15/2013,vegan
+Star Market,Bananas,fruit,$1.56,7/19/2013,vegan
+Whole Foods,Wheat Cereal,grains,$3.99,7/16/2013,vegan
+Whole Foods,Hemp Hearts,grains,$8.29,7/16/2013,vegan
+Whole Foods,Goji Berries,fruit,$9.99,7/16/2013,vegan
+Whole Foods,Pepitas,nuts,$3.39,7/16/2013,vegan
+Whole Foods,Avocado,fats & oils,$2.49,7/16/2013,vegan
+Star Market,Almond Milk Vanilla,other,$2.99,7/25/2013,vegan
+Star Market,Organic Silk Milk Unsweetened,soy,$3.99,7/25/2013,vegan
+Star Market,Bananas,fruit,$1.78,7/25/2013,vegan
+Star Market,Asparagus,vegetables,$3.59,7/25/2013,vegan
+Star Market,Black Berries,fruit,$1.99,7/25/2013,vegan
+Star Market,Grape Tomatoes,vegetables,$5.98,7/25/2013,vegan
+Whole Foods,Guittard Dark Chocolate Chips,sweets,$4.69,7/26/2013,vegan
+Whole Foods,Garbanzo Beans,legumes,$1.98,7/26/2013,vegan
+Whole Foods,Fennel Tea,other,$6.59,7/26/2013,vegan
+Whole Foods,Kidney Beans,legumes,$0.99,7/26/2013,vegan
+Whole Foods,Garbanzo Beans,legumes,$1.98,7/17/2013,vegan
+Whole Foods,Carrots,vegetables,$2.49,7/17/2013,vegan
+Whole Foods,Parsley,herbs & spices,$1.69,7/17/2013,vegan
+Roche Bros,Butternut Squash,starch,$3.29,7/26/2013,vegan
+Roche Bros,Vegetable Stock,"condiments, sauces, & dressings",$3.29,7/26/2013,vegan
+Star Market,Almond Milk,other,$3.29,7/19/2013,vegan
+Costco,Almond Butter,nuts,$5.99,7/18/2013,vegan
+Costco,Cheerios,grains,$5.69,7/18/2013,vegan
+Whole Foods,Cashews,nuts,$7.49,7/21/2013,vegan
+Whole Foods,Dried Cranberries,sweets,$5.39,7/21/2013,vegan
+Whole Foods,Oatnut Bread,grains,$3.99,7/21/2013,vegan
+Roche Bros,Grape Tomatoes,vegetables,$4,7/30/2013,vegan
+Roche Bros,Red Peppers,vegetables,$0.94,7/30/2013,vegan
+Roche Bros,Lemons,"condiments, sauces, & dressings",$0.79,7/30/2013,vegan
+Roche Bros,Garlic,herbs & spices,$0.48,7/30/2013,vegan
+Roche Bros,Bananas,fruit,$2.07,7/30/2013,vegan
+Roche Bros,Soy Milk,soy,$3.99,7/30/2013,vegan
+Roche Bros,Unsweetened Apple Sauce,fruit,$1.69,7/23/2013,vegan
+Roche Bros,Spinach,vegetables,$2.5,7/23/2013,vegan
+Roche Bros,Yellow Peppers,vegetables,$1.47,7/23/2013,vegan
+Roche Bros,Peaches,fruit,$3.94,7/23/2013,vegan
+Roche Bros,Red Onions,vegetables,$0.93,7/23/2013,vegan
+Roche Bros,Cherries,grains,$7.98,7/23/2013,vegan
+Roche Bros,Carrots,vegetables,$3.99,7/23/2013,vegan
+Roche Bros,Bananas,fruit,$2.18,7/23/2013,vegan
+Roche Bros,Avocadoes,fats & oils,$2,7/23/2013,vegan
+Volante Farms,Kale,vegetables,$2.99,7/20/2013,vegan
+Volante Farms,Lettuce,vegetables,$0.99,7/20/2013,vegan
+Volante Farms,Bananas,fruit,$1.88,7/20/2013,vegan
+Volante Farms,Yams,starch,$1.14,7/20/2013,vegan
+Volante Farms,Zucchini,vegetables,$1.71,7/20/2013,vegan
+Volante Farms,Green Beans,legumes,$1.2,7/20/2013,vegan
+Volante Farms,Pears,fruit,$1.91,7/20/2013,vegan
+Volante Farms,Brussel Sprouts,vegetables,$1.2,7/20/2013,vegan
+Volante Farms,Native Peaches,fruit,$2.69,7/20/2013,vegan
+Whole Foods,Popcorn,sweets,$2.79,8/31/2013,vegan
+Whole Foods,Peanut Butter Ball Cereal,grains,$3.69,8/31/2013,vegan
+Whole Foods,Purely Os Cereal,grains,$6,8/31/2013,vegan
+Star Market,Bananas,fruit,$1.66,8/30/2013,vegan
+Star Market,Red Peppers,vegetables,$3.59,8/30/2013,vegan
+Star Market,Lime,"condiments, sauces, & dressings",$1.38,8/30/2013,vegan
+Whole Foods,Strawberry Smoothie,sweets,$3.49,8/29/2013,vegan
+Whole Foods,Navel Oranges,fruit,$1.08,8/29/2013,vegan
+Whole Foods,Oatnut Bread,grains,$3.99,8/29/2013,vegan
+Whole Foods,Green Beans,legumes,$2,8/29/2013,vegan
+roche bros,Peanut Butter,legumes,$2.99,8/28/2013,vegan
+roche bros,Whole Wheat Pita Bread,grains,$2.59,8/28/2013,vegan
+roche bros,Dark Chocolate Chips,sweets,$2.99,8/28/2013,vegan
+roche bros,Bananas,fruit,$2.13,8/28/2013,vegan
+roche bros,Avocado,fats & oils,$5,8/28/2013,vegan
+roche bros,Hummus,legumes,$4.49,8/28/2013,vegan
+roche bros,Rice Dream Milk,other,$3.49,8/28/2013,vegan
+roche bros,Orange Juice,other,$3.59,8/28/2013,vegan
+Volante Farms,Lettuce,vegetables,$2.99,8/26/2013,vegan
+Volante Farms,Parsley,herbs & spices,$2.99,8/26/2013,vegan
+Volante Farms,Corn,legumes,$1.16,8/26/2013,vegan
+Volante Farms,Zucchini,vegetables,$1.53,8/26/2013,vegan
+Volante Farms,Brussels Sprouts,vegetables,$2.63,8/26/2013,vegan
+Volante Farms,Red Onions,vegetables,$1.83,8/26/2013,vegan
+Volante Farms,Veggie Curry,vegetables,$5.39,8/26/2013,vegan
+Volante Farms,Homegrown Tomatoes,vegetables,$5.43,8/26/2013,vegan
+Volante Farms,Cucumbers,vegetables,$1.98,8/26/2013,vegan
+Star Market,Salt Co,herbs & spices,$2.3,8/25/2013,vegan
+Star Market,Soy Milk,soy,$3.29,8/25/2013,vegan
+Star Market,Strawberries,fruit,$2.99,8/25/2013,vegan
+Star Market,Tomato,vegetables,$1.79,8/25/2013,vegan
+Star Market,Squash,starch,$1.88,8/25/2013,vegan
+Star Market,Grapes,fruit,$4.06,8/25/2013,vegan
+Star Market,Peaches,fruit,$1.49,8/25/2013,vegan
+Star Market,Bananas,fruit,$2.15,8/25/2013,vegan
+Star Market,Cantaloupe,fruit,$2.99,8/25/2013,vegan
+Star Market,Basil,herbs & spices,$2.69,8/25/2013,vegan
+Star Market,Grape Tomatoes,vegetables,$6,8/25/2013,vegan
+Shaws,Muesli,grains,$4.99,8/22/2013,vegan
+Shaws,Bananas,fruit,$2.19,8/22/2013,vegan
+Shaws,Broccoli,vegetables,$1.05,8/22/2013,vegan
+Shaws,Navel Oranges,fruit,$2.65,8/22/2013,vegan
+Shaws,Yellow Nectarines,fruit,$2.24,8/22/2013,vegan
+Star Market,Unsweetened Silk Soy Milk,soy,$3.99,8/20/2013,vegan
+Star Market,Bananas,fruit,$1.77,8/20/2013,vegan
+Star Market,Whole Wheat Pita Pread,grains,$2.49,8/18/2013,vegan
+Star Market,Orange Juice,other,$2.99,8/18/2013,vegan
+Star Market,Garlic,herbs & spices,$0.64,8/18/2013,vegan
+Star Market,Bananas,fruit,$2.62,8/18/2013,vegan
+Star Market,Green Pepper,vegetables,$0.63,8/18/2013,vegan
+Star Market,Zuccini,vegetables,$1.09,8/18/2013,vegan
+Star Market,Yellow Squash,starch,$1.29,8/18/2013,vegan
+Star Market,Sweet Onions,vegetables,$2.37,8/18/2013,vegan
+Star Market,Lime,"condiments, sauces, & dressings",$2.07,8/18/2013,vegan
+Costco,Hummus,legumes,$5.99,8/14/2013,vegan
+Costco,Cheerios,grains,$5.69,8/14/2013,vegan
+Costco,Almonds,nuts,$10.99,8/14/2013,vegan
+Costco,Walnuts,nuts,$17.99,8/14/2013,vegan
+Costco,Bell Peppers,vegetables,$6.99,8/14/2013,vegan
+Costco,Strawberries,fruit,$8.99,8/14/2013,vegan
+Costco,Blueberries,fruit,$3.99,8/14/2013,vegan
+Whole Foods,Oatnut Bread,grains,$3.99,8/14/2013,vegan
+Whole Foods,Dried Cranberries,sweets,$5.39,8/14/2013,vegan
+Whole Foods,Avocado,fats & oils,$3,8/14/2013,vegan
+Whole Foods,Whole Wheat Couscous,grains,$2.62,8/14/2013,vegan
+Whole Foods,Pistachios Unsalted,nuts,$3.91,8/14/2013,vegan
+Volante Farms,Basil,herbs & spices,$2.99,8/13/2013,vegan
+Volante Farms,Lettuce,vegetables,$2.99,8/13/2013,vegan
+Volante Farms,Green Beans,legumes,$1.79,8/13/2013,vegan
+Volante Farms,Yams,starch,$1.73,8/13/2013,vegan
+Volante Farms,Beets,vegetables,$3.99,8/13/2013,vegan
+Volante Farms,Summer Squash,starch,$1.9,8/13/2013,vegan
+Volante Farms,Tomatoes,vegetables,$5.43,8/13/2013,vegan
+Volante Farms,Ginger Root,herbs & spices,$1.24,8/13/2013,vegan
+Volante Farms,Native Peaches,fruit,$3.59,8/13/2013,vegan
+Target,Trail Mix,nuts,$3.48,8/9/2013,vegan
+Target,Cheerios,grains,$2.99,8/9/2013,vegan
+Volante Farms,Bartlett Pears,fruit,$1.97,8/8/2013,vegan
+Volante Farms,Avocado,fats & oils,$3.58,8/8/2013,vegan
+Volante Farms,Carrots,vegetables,$3.59,8/4/2013,vegan
+Volante Farms,Bananas,fruit,$1.87,8/4/2013,vegan
+Volante Farms,Apples,fruit,$1.81,8/4/2013,vegan
+Volante Farms,Green Beans,legumes,$2.54,8/4/2013,vegan
+Volante Farms,Basil,herbs & spices,$2.99,8/4/2013,vegan
+Volante Farms,Lettuce,vegetables,$2.99,8/4/2013,vegan
+Volante Farms,Broccoli,vegetables,$2.67,8/4/2013,vegan
+Volante Farms,Tomatoes,vegetables,$8.22,8/4/2013,vegan
+Volante Farms,Cucumbers,vegetables,$1.98,8/4/2013,vegan
+Volante Farms,Apples,fruit,$3.08,8/4/2013,vegan
+Whole Foods,Wheat Squares Cereal,grains,$2.69,8/4/2013,vegan
+Whole Foods,Crunch Cereal,grains,$6,8/4/2013,vegan
+Whole Foods,Red Lentils,legumes,$1.15,8/4/2013,vegan
+Whole Foods,Whole Wheat Couscous,grains,$1.44,8/4/2013,vegan
+Whole Foods,Quinoa Grain,grains,$1.8,8/4/2013,vegan
+Whole Foods,Oatnut Bread,grains,$3.99,8/4/2013,vegan
+Whole Foods,Cilantro,herbs & spices,$1.69,8/4/2013,vegan
+Whole Foods,Baby Spinach Salad,vegetables,$3.99,8/2/2013,vegan
+Whole Foods,Dried Cranberries,sweets,$5.39,8/2/2013,vegan
+Whole Foods,Blueberries,fruit,$3.99,8/2/2013,vegan
+Whole Foods,Cherries,fruit,$8.98,8/2/2013,vegan
+Star Market,Unsalted Peanut Butter,legumes,$3.99,8/1/2013,vegan
+Star Market,Chunky Unsalted Peanut Butter,legumes,$3.99,8/1/2013,vegan
+Star Market,Almond Milk,other,$3.29,8/1/2013,vegan
+Star Market,Chopped Walnuts,nuts,$9.99,8/1/2013,vegan
+Star Market,Bananas,fruit,$1.61,8/1/2013,vegan

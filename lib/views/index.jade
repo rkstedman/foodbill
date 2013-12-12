@@ -2,13 +2,17 @@ extends layout
 
 block content
   .row
-    #store.dc-chart
-      strong Retailer 
-      a.reset(href="javascript:storePie.filterAll();dc.redrawAll();",style="display:none;") reset
+    #diet.dc-chart
+      strong Diet 
+      a.reset(href="javascript:dietPie.filterAll();dc.redrawAll();",style="display:none;") reset
       .clearfix
     #month.dc-chart
       strong Month 
       a.reset(href='javascript:monthPie.filterAll();dc.redrawAll();',style='display:none;') reset
+      .clearfix
+    #store.dc-chart
+      strong Retailer 
+      a.reset(href="javascript:storePie.filterAll();dc.redrawAll();",style="display:none;") reset
       .clearfix
   .row
     .dc-data-count.dc-chart
@@ -19,8 +23,8 @@ block content
       a(href="javascript:dc.filterAll(); dc.renderAll();") Reset All
   .row
     h4 Frequency of Grocery Store Visits
-    p On average, I made <span> </span> visits to grocery stores per week.
-    p Below is a bar graph of average visits per week by month.
+    //- p On average, I made <span> </span> visits to grocery stores per week.
+    p Below is a bar graph of the number of days I visited the grocery store per week. Apparently, the week of 07/14 I went to the grocery store every single day of the week.
     #visitFreq.dc-chart
   .row
     table.dc-data-table.table.table-hover.dc-chart
