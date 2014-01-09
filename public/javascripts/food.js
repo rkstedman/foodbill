@@ -160,10 +160,18 @@ jQuery(function($) {
     catPie
         .width(300)
         .height(300)
-        .radius(140)
+        .radius(145)
         .dimension(catDimension)
         .group(catCostGroup)
+        // .slicesCap(5)
         .title(function(d){return d.key + ': $' + d.value;})
+        .label(function (d) {
+          console.log(d);
+            if (catPie.hasFilter() && !catPie.hasFilter(d.key))
+                return d.key + " 0%";
+            return d.key + " " + Math.floor(d.value / all.value() * 100) + "%";
+        })
+        .renderLabel(true)
         .renderlet(function (chart) {
           // console.log(chart.filters());
         });
