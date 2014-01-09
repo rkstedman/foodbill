@@ -56,6 +56,7 @@ jQuery(function($) {
   var dietPie = dc.pieChart('#diet');
   var storeChart = dc.rowChart('#store');
   var monthPie = dc.pieChart('#month');
+  var catPie = dc.pieChart('#category');
   var dataTable = dc.dataTable('.dc-data-table');
   var visitFreqChart = dc.barChart('#visitFreq');
   
@@ -87,13 +88,15 @@ jQuery(function($) {
         storeDimension = food.dimension(function(e) { return e.store;}),
         monthDimension = food.dimension(function(e) { return e.month;}),
         weekDimension  = food.dimension(function(e) { return e.week;}),
+        catDimension = food.dimension(function(e) { return e.category;}),
         storeCostGroup = storeDimension.group().reduceSum( function(e) {
           return e.cost;
         }),
         monthCostGroup = monthDimension.group().reduceSum( function(e) {
           return e.cost;
         }),
-        dietCostGroup = dietDimension.group();
+        dietCostGroup = dietDimension.group(),
+        catCostGroup = catDimension.group().reduceSum( function(e) { return e.cost; });
         
     var weekGroup = weekDimension.group().reduce( 
       function (p, v) {
@@ -146,8 +149,20 @@ jQuery(function($) {
         .width(pieWidth)
         .height(pieWidth)
         .radius(pieRadius)
+        .renderLabel(true)
         .dimension(monthDimension)
         .group(monthCostGroup)
+        .title(function(d){return d.key + ': $' + d.value;})
+        .renderlet(function (chart) {
+          // console.log(chart.filters());
+        });
+        
+    catPie
+        .width(300)
+        .height(300)
+        .radius(140)
+        .dimension(catDimension)
+        .group(catCostGroup)
         .title(function(d){return d.key + ': $' + d.value;})
         .renderlet(function (chart) {
           // console.log(chart.filters());
